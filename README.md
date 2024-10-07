@@ -19,10 +19,7 @@ Before you begin, ensure you have met the following requirements:
 ## Installation
 
 1. Clone this repository:
-   ```
-   git clone https://github.com/yourusername/openai-text-generator-api.git
-   cd openai-text-generator-api
-   ```
+  
 
 2. Install the required packages:
    ```
